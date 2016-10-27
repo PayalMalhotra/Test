@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18837" started-at="2016-10-27T20:17:21Z" finished-at="2016-10-27T20:17:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18837" started-at="2016-10-27T20:17:21Z" finished-at="2016-10-27T20:17:40Z">
+      <class name="Pack_calc.Emul_Calc">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Pack_calc.Emul_Calc@6d8a00e3]" name="setUp" duration-ms="18810" started-at="2016-10-28T01:47:21Z" finished-at="2016-10-28T01:47:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- Pack_calc.Emul_Calc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
