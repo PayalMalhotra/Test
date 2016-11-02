@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="17336" started-at="2016-10-30T20:38:29Z" finished-at="2016-10-30T20:38:47Z">
+  <suite name="Default suite" duration-ms="9502" started-at="2016-11-02T08:40:27Z" finished-at="2016-11-02T08:40:36Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="17336" started-at="2016-10-30T20:38:29Z" finished-at="2016-10-30T20:38:47Z">
-      <class name="com.accolite.aceit.login.LoginEmail">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.accolite.aceit.login.LoginEmail@7ac7a4e4]" name="setUp" duration-ms="17307" started-at="2016-10-31T02:08:29Z" finished-at="2016-10-31T02:08:47Z">
+    <test name="Default test" duration-ms="9502" started-at="2016-11-02T08:40:27Z" finished-at="2016-11-02T08:40:36Z">
+      <class name="com.accolite.aceit.login.CalcTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.accolite.aceit.login.CalcTest@7ac7a4e4]" name="setUp" duration-ms="9476" started-at="2016-11-02T14:10:27Z" finished-at="2016-11-02T14:10:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-      </class> <!-- com.accolite.aceit.login.LoginEmail -->
+      </class> <!-- com.accolite.aceit.login.CalcTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

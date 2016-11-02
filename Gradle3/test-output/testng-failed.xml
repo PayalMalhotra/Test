@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.accolite.aceit.login.LoginEmail">
+      <class name="com.accolite.aceit.login.CalcTest">
         <methods>
           <include name="setUp"/>
         </methods>
-      </class> <!-- com.accolite.aceit.login.LoginEmail -->
+      </class> <!-- com.accolite.aceit.login.CalcTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

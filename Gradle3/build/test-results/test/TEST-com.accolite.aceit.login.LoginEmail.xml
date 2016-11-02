@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.accolite.aceit.login.LoginEmail" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-30T20:39:04" hostname="MAJI-BLR-01" time="14.803">
+<testsuite name="com.accolite.aceit.login.LoginEmail" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-30T21:03:06" hostname="MAJI-BLR-01" time="16.155">
   <properties/>
-  <testcase name="setUp" classname="com.accolite.aceit.login.LoginEmail" time="14.803"/>
+  <testcase name="setUp" classname="com.accolite.aceit.login.LoginEmail" time="16.155"/>
   <system-out><![CDATA[Number sum result is : 7
 ]]></system-out>
-  <system-err><![CDATA[Oct 31, 2016 2:09:04 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+  <system-err><![CDATA[Oct 31, 2016 2:33:06 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
-Oct 31, 2016 2:09:09 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Oct 31, 2016 2:33:11 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: OSS
 ]]></system-err>
 </testsuite>
