@@ -21,7 +21,7 @@ WebDriver driver;
 	  // Created object of DesiredCapabilities class.
 	  DesiredCapabilities capabilities = new DesiredCapabilities();
 
-	 // capabilities.setCapability("avd","Test_28");
+	  capabilities.setCapability("avd","Test2");
 
 	  // Set android deviceName desired capability. Set it Android Emulator.
 	  capabilities.setCapability("deviceName", "emulator-5554");
