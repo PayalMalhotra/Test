@@ -1,0 +1,29 @@
+<suite name="gridtesting" verbose="1" parallel="tests"
+	thread-count="5">
+	<!-- <listeners> <listener class-name="org.uncommons.reportng.HTMLReporter" 
+		/> <listener class-name="org.uncommons.reportng.JUnitXMLReporter" /> </listeners> -->
+
+	<tests>
+		<test name="run on device 1">
+
+			<classes>
+				
+				<parameter name="device" value="emulator-5554"></parameter>
+
+				<class name="com.accolite.appiumGrid.appiumGridCls">
+					
+				</class>
+			</classes>
+		</test>
+
+		<test name="run on device 2">
+
+			<classes>
+				<parameter name="device" value="emulator-5556"></parameter>
+				<class name="com.accolite.appiumGrid.appiumGridCls">
+					
+				</class>
+			</classes>
+		</test>
+	</tests>
+</suite>
